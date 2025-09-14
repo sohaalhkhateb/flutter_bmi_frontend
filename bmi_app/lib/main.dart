@@ -1,10 +1,10 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:my_pharmacy/layout/bmi_app/bmi/bmi_screen.dart';
-import 'package:my_pharmacy/shared/cubit2/cubit.dart';
-import 'package:my_pharmacy/shared/cubit2/states.dart';
-import 'package:my_pharmacy/shared/network/local/cache_helper.dart';
+import 'package:my_bmi/layout/bmi_app/bmi/bmi_screen.dart';
+import 'package:my_bmi/shared/cubit2/cubit.dart';
+import 'package:my_bmi/shared/cubit2/states.dart';
+import 'package:my_bmi/shared/network/local/cache_helper.dart';
 import 'shared/styles/themes.dart';
 //import 'package:hexcolor/hexcolor.dart';
 void main() async

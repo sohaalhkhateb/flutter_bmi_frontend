@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:my_pharmacy/shared/cubit2/states.dart';
+import 'package:my_bmi/shared/cubit2/states.dart';
 import '../network/local/cache_helper.dart';
 
 class AppCubit extends Cubit<AppStates>

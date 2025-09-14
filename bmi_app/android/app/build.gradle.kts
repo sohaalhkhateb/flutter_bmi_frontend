@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.my_pharmacy"
+    namespace = "com.example.my_bmi"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "27.2.12479018"
 
@@ -20,7 +20,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.my_pharmacy"
+        applicationId = "com.example.my_bmi"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

@@ -1,4 +1,4 @@
-# my_pharmacy
+# my_bmi
 
 A new Flutter project.
 
